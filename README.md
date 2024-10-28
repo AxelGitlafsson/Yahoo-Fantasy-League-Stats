@@ -24,5 +24,5 @@ Libraries: pandas, request, bs4, selenium, io, fuzzywuzzy, time
 
 
 Things to work on:
-- Change FG% and FT% to accurately reflect player's shot attempts. (Players may shoot 100% but if they take very few shots a game it will not have much effect.)
+- Change FG% and FT% to accurately reflect player's shot attempts. (Players may shoot 100% but if they take very few shots a game it won't have much of an effect.)
 - More helpful data visualizations.
