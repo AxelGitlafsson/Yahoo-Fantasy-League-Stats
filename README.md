@@ -10,8 +10,8 @@ Team stats are evaluated using Z scores (standard deviations from the mean) for 
 ![image](https://github.com/user-attachments/assets/affb1098-3aea-42dc-bb0d-c94e61f07426)
 
 
-## How it works (imports)
-pandas, request, bs4, selenium, io, fuzzywuzzy, time
+## How it works
+Libraries: pandas, request, bs4, selenium, io, fuzzywuzzy, time
 
 1. Extract Team info from Yahoo League Rosters site.
 2. Extract player stat projections for all NBA players from hashtag basketball using selenium webdriver.
