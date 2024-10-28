@@ -10,3 +10,8 @@ Team stats are evaluated using Z scores (standard deviations from the mean) for 
 ![image](https://github.com/user-attachments/assets/affb1098-3aea-42dc-bb0d-c94e61f07426)
 
 
+
+
+Things to work on:
+- Change FG% and FT% to accurately reflect player's shot attempts. (Players may shoot 100% but if they take very few shots a game it will not have much effect.)
+- More helpful data visualizations.
